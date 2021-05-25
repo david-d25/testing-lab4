@@ -127,7 +127,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">C:\Users\david\Desktop\testing\4\report_stress.csv</stringProp>
+        <stringProp name="filename">C:\Users\david\Desktop\testing\4\report_stress2.csv</stringProp>
       </ResultCollector>
       <hashTree/>
       <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
